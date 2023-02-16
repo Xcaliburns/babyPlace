@@ -1,0 +1,1 @@
+SELECT * FROM baby_db.parents;
