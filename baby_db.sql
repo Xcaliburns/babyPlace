@@ -1,1 +1,1 @@
-SELECT * FROM baby_db.parents;
+SELECT * FROM baby_db.users;
